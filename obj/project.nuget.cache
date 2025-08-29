@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMJFbk6TO4Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monster\\source\\repos\\NetCoreAI\\NetCoreAI_Project_15_WebScrapingWithOpenAI\\NetCoreAI_Project_15_WebScrapingWithOpenAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monster\\.nuget\\packages\\htmlagilitypack\\1.12.2\\htmlagilitypack.1.12.2.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
